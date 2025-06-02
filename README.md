@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eunicky Regina
+# 💻 Eunicky Regina
 
 **`Estudante de ADS `**
 
