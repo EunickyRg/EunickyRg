@@ -2,7 +2,7 @@
 
 **`Estudante de ADS `**
 
-Olá, curso Análise e Desenvolvimento de Sistemas, aqui eu registro minhas anotações/atividades/projetos acadêmicos e pessoais, meio 
+Aqui eu registro minhas anotações/atividades/projetos acadêmicos e pessoais, meio 
 que meu portifolio provisório. 
 
 ---
